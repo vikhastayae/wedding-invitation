@@ -180,7 +180,7 @@ section{
 
 .hero-img {
     display: flex;
-    height: 800px;
+    height: 100%;
     opacity: 70%;
 }
 
